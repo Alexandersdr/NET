@@ -2,7 +2,6 @@ Notas importantes
 
 Definições
 
-Não utilizar
 
 .NET 6 C# inciano dotnet run 
 compilar dotnet build
